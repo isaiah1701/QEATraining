@@ -1,0 +1,14 @@
+C:\Users\2391446\C#Training\bankApp\bankApp\bin\Debug\net9.0\bankApp.exe
+C:\Users\2391446\C#Training\bankApp\bankApp\bin\Debug\net9.0\bankApp.deps.json
+C:\Users\2391446\C#Training\bankApp\bankApp\bin\Debug\net9.0\bankApp.runtimeconfig.json
+C:\Users\2391446\C#Training\bankApp\bankApp\bin\Debug\net9.0\bankApp.dll
+C:\Users\2391446\C#Training\bankApp\bankApp\bin\Debug\net9.0\bankApp.pdb
+C:\Users\2391446\C#Training\bankApp\bankApp\obj\Debug\net9.0\bankApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2391446\C#Training\bankApp\bankApp\obj\Debug\net9.0\bankApp.AssemblyInfoInputs.cache
+C:\Users\2391446\C#Training\bankApp\bankApp\obj\Debug\net9.0\bankApp.AssemblyInfo.cs
+C:\Users\2391446\C#Training\bankApp\bankApp\obj\Debug\net9.0\bankApp.csproj.CoreCompileInputs.cache
+C:\Users\2391446\C#Training\bankApp\bankApp\obj\Debug\net9.0\bankApp.dll
+C:\Users\2391446\C#Training\bankApp\bankApp\obj\Debug\net9.0\refint\bankApp.dll
+C:\Users\2391446\C#Training\bankApp\bankApp\obj\Debug\net9.0\bankApp.pdb
+C:\Users\2391446\C#Training\bankApp\bankApp\obj\Debug\net9.0\bankApp.genruntimeconfig.cache
+C:\Users\2391446\C#Training\bankApp\bankApp\obj\Debug\net9.0\ref\bankApp.dll
